@@ -17,8 +17,8 @@
   <a href="https://github.com/JusleySouza">
     
  ##### 💻 Linguagens mais usadas em meus repositórios:<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
