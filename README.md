@@ -4,7 +4,7 @@
 - 💖 Completamente apaixonada por tecnologia
 - 🔭 Hoje estou em  busca de estágio.
 - 💻 Atualmente estou estudando as linguagens Java e SQL.
-- 😄 Pronouns: ela/dela.
+- 😄 Pronomes: ela/dela.
 
 <div align="center">
   <a href="https://github.com/JusleySouza">
