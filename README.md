@@ -10,12 +10,10 @@
 - 🔭 Hoje estou em  busca de estágio.
 - 💻 Atualmente estou estudando as linguagens Java e SQL.
 - 😄 Pronomes: ela/dela.
-
 ##
 
-<div style="display: inline_block"><br>
-  
- #### 🧠 Tenho conhecimento em:<br>
+<div style="display: inline_block"><br>  
+🧠 Tenho conhecimento em:<br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
