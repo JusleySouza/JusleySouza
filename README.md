@@ -13,15 +13,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/JusleySouza">
-    
- ##### 💻 Linguagens mais usadas em meus repositórios:<br>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-  ##
 <div style="display: inline_block"><br>
   
  #### 🧠 Tenho conhecimento em:<br>
@@ -39,16 +30,31 @@
   ##
  
 <div> 
+</p>
   
-#### 💬 Me chame para bater um papo :<br>
+<div align="left">
+<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"> Meus Contatos: <br>
   
   
    <a href="https://www.linkedin.com/in/jusley-souza-4a6934216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:jusleysouza31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jusley.souza.7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ 
+ ![Snake animation](https://github.com/JusleySouza/JusleySouza/blob/output/github-contribution-grid-snake.svg)
+ 
+<div align="center">
+  <a href="https://github.com/JusleySouza">
+    
+ ##### 💻 Linguagens mais usadas em meus repositórios:<br>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>
 
- 
- 
-  ![Snake animation](https://github.com/JusleySouza/JusleySouza/blob/output/github-contribution-grid-snake.svg)
- 
+<p align = "center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=JusleySouza&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 </div>
+
+ <p align = "center">
+ <img height ="290" src="https://activity-graph.herokuapp.com/graph?username=JusleySouza&theme=redical">
+</p> 
