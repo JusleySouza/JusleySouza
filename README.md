@@ -32,7 +32,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/808354747543322657/918370122773708810/download20211204021137.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  src="https://cdn.discordapp.com/attachments/847561029659525130/918504417161011270/sdaf.png">
 </div>
   
   ##
