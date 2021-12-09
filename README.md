@@ -1,10 +1,9 @@
-### Olá!! Eu sou a Jusley Souza
+### Olá!! Sou a Jusley Souza, Desenvolvedora Back-end
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 💖 Completamente apaixonada por tecnologia
 - 🔭 Hoje estou em  busca de estágio.
 - 💻 Atualmente estou estudando as linguagens Java e SQL.
-- 📫 Contate-me no email: jusleysouza31@gmail.com
 - 😄 Pronouns: ela/dela.
 
 <div align="center">
