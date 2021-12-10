@@ -4,7 +4,7 @@
 
 ##
 
- ##### 🙂 Um pouco sobre mim :
+ #### 🙂 Um pouco sobre mim :
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🔭 Estou em  busca de estágio.
@@ -42,9 +42,10 @@
  ![Snake animation](https://github.com/JusleySouza/JusleySouza/blob/output/github-contribution-grid-snake.svg)
  
 <div align="center">
+ </p>
   <a href="https://github.com/JusleySouza">
     
- #####  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Linguagens mais usadas em meus repositórios:<br>
+ ####  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Linguagens mais usadas em meus repositórios: <br>
 
    
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
