@@ -1,14 +1,14 @@
-# Olá, sou a Jusley Souza!!
-## Desenvolvedora Back-end 💻
-###  💖Completamente apaixonada por tecnologia e inovação!
+# Olá, sou a Jusley Souza <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## 💻 Desenvolvedora Back-end 
+###  💖 Completamente apaixonada por tecnologia e inovação 💖
 
 ##
 
- ##### 🙂 Um pouco sobre mim:
+ ##### 🙂 Um pouco sobre mim :
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🔭 Hoje estou em  busca de estágio.
-- 💻 Atualmente estou estudando as linguagens Java e SQL.
+- 🔭 Estou em  busca de estágio.
+- 💻 Atualmente estudando Java e SQL.
 - 😄 Pronomes: ela/dela.
 ##
 
@@ -44,7 +44,9 @@
 <div align="center">
   <a href="https://github.com/JusleySouza">
     
- ##### 💻 Linguagens mais usadas em meus repositórios:<br>
+ #####  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Linguagens mais usadas em meus repositórios:<br>
+
+   
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>
 
