@@ -10,6 +10,7 @@
 - 🔭 Estou em  busca de estágio.
 - 💻 Atualmente estudando Java e SQL.
 - 😄 Pronomes: ela/dela.
+
 ##
 
 <div style="display: inline_block"><br>  
