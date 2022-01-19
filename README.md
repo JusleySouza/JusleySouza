@@ -8,7 +8,7 @@
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🔭 Estou em  busca de estágio.
-- 💻 Atualmente estudando Java e SQL.
+- 💻 Atualmente estudando Java, Spring boot e SQL.
 - 😄 Pronomes: ela/dela.
 
 ##
