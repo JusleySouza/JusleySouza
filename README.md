@@ -8,7 +8,7 @@
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🔭 Estou em  busca de estágio.
-- 💻 Atualmente estudando Java, Spring boot e SQL.
+- 💻 Atualmente estudando Java, Spring boot, SQL e NodeJS.
 - 😄 Pronomes: ela/dela.
 
 ##
@@ -23,6 +23,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/847561029659525130/918504417161011270/sdaf.png">
 </div>
