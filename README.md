@@ -7,8 +7,8 @@
  #### 🙂 Um pouco sobre mim :
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🔭 Estou em  busca de estágio.
-- 💻 Atualmente estudando Java, Spring boot, SQL e NodeJS.
+- 🔭 Atualmente estagiando na IBM.
+- 💻 Atualmente estudando Java, Spring, Spring boot, SQL, MongoDB, Html, CSS e Javascript .
 - 😄 Pronomes: ela/dela.
 
 ##
