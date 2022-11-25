@@ -8,7 +8,7 @@
 
 - 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🔭 Atualmente estagiando na IBM.
-- 💻 Atualmente estudando Java, Spring, Spring boot, SQL, MongoDB, Html, CSS e Javascript .
+- 💻 Estudando Java, Spring, Spring boot, SQL, MongoDB, Html, CSS e Javascript .
 - 😄 Pronomes: ela/dela.
 
 ##
