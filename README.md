@@ -51,8 +51,8 @@
  ####  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Linguagens mais usadas em meus repositórios: <br>
 
    
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>
+<!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JusleySouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusleySouza&layout=compact&langs_count=7&theme=radical"/>-->
 
 <p align = "center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JusleySouza&show_icons=true&locale=en&layout=compact&theme=radical&line_height=1" />
