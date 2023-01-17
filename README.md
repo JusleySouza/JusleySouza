@@ -59,6 +59,6 @@
 </p> 
 </div>
 
- <p align = "center">
+<!-- <p align = "center">
  <img height ="290" src="https://activity-graph.herokuapp.com/graph?username=JusleySouza&theme=redical">
-</p> 
+</p> -->
