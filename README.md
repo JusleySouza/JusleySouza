@@ -28,7 +28,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
   <a href="https://redis.io/" target="_blank"><img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></a>
   <a href="https://www.rabbitmq.com/" target="_blank"><img align="center" alt="RabbitMQ" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img align="center" alt="Apache Kafka" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg"></a>
 </div>
 
 ---
