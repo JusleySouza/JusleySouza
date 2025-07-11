@@ -23,6 +23,14 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  <a href="https://aws.amazon.com/" target="_blank"><img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
+  <a href="https://junit.org/" target="_blank"><img align="center" alt="JUnit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/JUnit_5_Banner.png"></a>
+  <a href="https://site.mockito.org/" target="_blank"><img align="center" alt="Mockito" height="30" width="40" src="https://avatars.githubusercontent.com/u/11001768?s=200&v=4"></a>
+  <a href="https://trello.com/" target="_blank"><img align="center" alt="Trello" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img align="center" alt="Jira" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"></a>
 </div>
 
 ---
