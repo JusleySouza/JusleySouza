@@ -2,7 +2,7 @@
 ## 💻 Desenvolvedora Back-end 
 ###  💖 Completamente apaixonada por tecnologia e inovação 💖
 
-##
+---
 
  #### 🙂 Um pouco sobre mim :
 
@@ -12,11 +12,10 @@
 - ❤️ Entusiasta da cultura Devops.
 - 😄 Pronomes: ela/dela.
 
-##
+---
 
-<div style="display: inline-block"><br>  
-🧠 Tenho conhecimento em:<br>
-  
+#### 🧠 Tenho conhecimento em:
+<div style="display: inline-block"><br> 
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
