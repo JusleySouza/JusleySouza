@@ -6,9 +6,10 @@
 
  #### 🙂 Um pouco sobre mim :
 
-- 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🔭 Atualmente estagiando na IBM.
-- 💻 Estudando Java, Spring, Spring boot, SQL, MongoDB, Html, CSS e Javascript .
+- 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas.
+- 💻 Tenho experiência em desenvolvimento de software utilizando Java, Spring*, PostgreSQL, MongoDB, Docker, Redis, testes com JUnit e Mockito, documentação com Swagger.
+- 📚 Atualmente estou estudando para tirar a minha segunda certificação AWS.
+- ❤️ Entusiasta da cultura Devops.
 - 😄 Pronomes: ela/dela.
 
 ##
