@@ -1,4 +1,4 @@
-# Olá, sou a Jusley Souza <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Olá, sou a Jusley Freitas <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ## 💻 Desenvolvedora Back-end 
 ###  💖 Completamente apaixonada por tecnologia e inovação 💖
 
