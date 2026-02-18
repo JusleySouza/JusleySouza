@@ -8,7 +8,7 @@
 
 - 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas.
 - 💻 Tenho experiência em desenvolvimento de software com Java, Spring Boot, PostgreSQL, MongoDB, Docker, Redis, testes automatizados (JUnit e Mockito) e documentação com Swagger.
-- 📚 Atualmente estou estudando para tirar a minha segunda certificação AWS.
+- 📚 Atualmente estou cursando MBA em Arquitetura de Software pela Full Cycle.
 - ❤️ Entusiasta da cultura Devops.
 - 😄 Pronomes: ela/dela.
 
